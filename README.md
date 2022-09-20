@@ -58,8 +58,11 @@ Create a file called **recipe.py** and upload it to this repository. In that fil
 For example suppose the user enters:
 
 3
+
 4
+
 5
+
 2
 
 Then there are 3 cups + 4 ounces + 5 tablespoons + 2 teaspoons.
