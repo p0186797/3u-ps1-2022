@@ -50,7 +50,7 @@ Winston Churchill Blvd
  ```
 ---
 
-Create a file called **punctuation.py** and upload it to this repositoty. In that file, write a program that asks the user for a sentence and removes all punctuation in that sentence: exclamation mark (!), period (.), comma (,), question mark (?), semi-colon (;), hyphen (-), apostrophe ('), quotation marks (").
+Create a file called **punctuation.py** and upload it to this repositoty. In that file, write a program that asks the user for a sentence and counts all punctuation in that sentence: exclamation mark (!), period (.), comma (,), question mark (?), semi-colon (;), hyphen (-), apostrophe ('), quotation marks (") and outputs the result.
 
 **Sample Input 1**
 ```
@@ -59,7 +59,7 @@ Create a file called **punctuation.py** and upload it to this repositoty. In tha
 
 **Sample Output 1**
 ```
-They say Im oldfashioned and live in the past but somethimes I think progress progresses too fast  Dr Seuss
+7
 ```
 ---
 
