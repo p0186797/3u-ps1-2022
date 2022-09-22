@@ -10,7 +10,8 @@ instead of
 
 ```
 word = input("Enter a word: ")
-``
+```
+
 ---
 
 Create a file called **changes.py** and upload it to this repository. In that file, write a program that asks the user for thier student email which will end in @pdsb.net. Your program will change that domain name to @peelschools.com and output the new email.
